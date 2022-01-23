@@ -25,10 +25,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Abraham-Solis/textEditorGo.git"
+    "url": "git+https://github.com/g-broadhead/textEditor.git"
   },
   "bugs": {
-    "url": "https://github.com/Abraham-Solis/textEditorGo/issues"
+    "url": "https://github.com/g-broadhead/textEditor/issues"
   },
-  "homepage": "https://github.com/Abraham-Solis/textEditorGo#readme"
+  "homepage": "https://github.com/g-broadhead/textEditor#readme"
 }
